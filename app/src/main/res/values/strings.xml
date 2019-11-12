@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VimosTest</string>
+    <string name="get_product_list">Get product list</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="price_formatted">%d rub.</string>
+    <string name="product_name">Product name</string>
+    <string name="product_price">Price</string>
+    <string name="product_gcode">gcode</string>
+    <string name="product_currency">rub.</string>
+</resources>
